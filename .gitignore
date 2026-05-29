@@ -1,0 +1,7 @@
+bin/
+*.log
+*.tmp
+.vscode/
+.idea/
+_gsdata_/
+pocs/
